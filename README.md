@@ -178,4 +178,4 @@ This project is open-source and available under the MIT License.
 
 ## Author
 
-Created by Korey90 with assistance from GitHub Copilot.
+Created by Korey90.
